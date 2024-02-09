@@ -11,7 +11,8 @@
  "customizations": {
      "vscode": {
          "extensions": [
-             "GitHub.copilot"
+             "GitHub.copilot",
+           "AmazonWebServices.aws-toolkit-vscode"
          ]
      },
      "codespaces": {

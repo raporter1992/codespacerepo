@@ -11,7 +11,17 @@
  "customizations": {
      "vscode": {
          "extensions": [
-             "GitHub.copilot"
+           "AmazonWebServices.aws-toolkit-vscode",
+           "aws-scripting-guy.cform",
+           "streetsidesoftware.code-spell-checker",
+           "oderwat.indent-rainbow",
+           "visualstudioexpttea",
+           "visualstudioexptteam.intellicode-api-usage-examples",
+           "zainchen.json",
+           "dotjoshjohnson.xml",
+           "redhat.vscode-yaml",
+           "ms-vscode.remote-explorer",
+           "ms-python.python"
          ]
      },
      "codespaces": {

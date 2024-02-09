@@ -20,7 +20,8 @@
            "zainchen.json",
            "dotjoshjohnson.xml",
            "redhat.vscode-yaml",
-           "ms-vscode.remote-explorer"       
+           "ms-vscode.remote-explorer",
+           "ms-python.python"
          ]
      },
      "codespaces": {
